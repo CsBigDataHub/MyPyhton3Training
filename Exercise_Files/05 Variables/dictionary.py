@@ -18,6 +18,7 @@ def main():
     for k in d2:
         print(k,d2[k])
     
+    # the below can be used for switch statment as well
     d3 = dict(
         one=1,two=2,three=3,four=4
     )
