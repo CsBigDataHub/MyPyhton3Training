@@ -8,7 +8,7 @@ def main():
     for i in inclusive_range(10) :
         print(i, end = ' ')
 
-def inclusive_range(*args):
+def inclusive_range(*args): 
     numargs=len(args)
     if numargs<1: raise TypeError('requires at least one argument')
     elif numargs == 1:
