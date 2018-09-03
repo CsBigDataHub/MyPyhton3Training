@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # testimonials.py
 # 
-# created 2010-04-23
+# 
 #
 
 from bwDB import bwDB

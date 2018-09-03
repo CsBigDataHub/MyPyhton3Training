@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # db.py
 # 
-# created 2010-04-23
+# 
 #
 
 import sys, os

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # datetime.py
 # 
-# CGI/SSI version for bw.org
+# CGI/SSI version
 #
 
 import time, saytime
