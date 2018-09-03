@@ -4,8 +4,8 @@
 
 
 def main():
-    f = open('lines.txt')
-    for line in f:
+    f = open('Exercise_Files/15 Files/lines.txt')
+    for line in f.readlines():
         print(line, end = '')
 
 if __name__ == "__main__": main()
