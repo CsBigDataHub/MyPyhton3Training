@@ -6,4 +6,6 @@ if a < b:
 else:
     print('a ({}) is not less than b ({})'.format(a, b))
 
-print("foo" if a<b else "bar")
+# Example of a tertiary conditional statement
+print ("foo" if a < b else "bar")
+
