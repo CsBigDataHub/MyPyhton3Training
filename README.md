@@ -9,3 +9,11 @@ https://www.programiz.com/python-programming/property
 
 ![Image1](./OperatorPrecedence_python.jpg)
 
+##### create List wih range
+![Image2](./CreatingListUsingRange.jpg)
+##### dictionary
+![Image3](./dictionary1.jpg)
+![Image4](./dictionary2.jpg)
+##### List
+![Image5](./ListOperations.jpg)
+![Image6](./ListOperations.jpg)
