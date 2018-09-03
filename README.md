@@ -7,3 +7,5 @@ https://gist.github.com/mhulse/4279705
 
 https://www.programiz.com/python-programming/property
 
+![Image1](./OperatorPrecedence_python.jpg)
+
